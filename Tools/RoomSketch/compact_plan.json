@@ -1,0 +1,1835 @@
+{
+  "delete": [
+    "StaticMeshActor_283",
+    "StaticMeshActor_284",
+    "StaticMeshActor_285",
+    "StaticMeshActor_286",
+    "StaticMeshActor_287",
+    "StaticMeshActor_289",
+    "StaticMeshActor_290",
+    "StaticMeshActor_291",
+    "StaticMeshActor_292",
+    "StaticMeshActor_295",
+    "StaticMeshActor_296",
+    "StaticMeshActor_297",
+    "StaticMeshActor_298",
+    "StaticMeshActor_302",
+    "StaticMeshActor_305",
+    "StaticMeshActor_306",
+    "StaticMeshActor_307",
+    "StaticMeshActor_308",
+    "StaticMeshActor_317",
+    "StaticMeshActor_320",
+    "StaticMeshActor_321",
+    "StaticMeshActor_324",
+    "StaticMeshActor_328",
+    "StaticMeshActor_329",
+    "StaticMeshActor_332",
+    "StaticMeshActor_336",
+    "StaticMeshActor_337",
+    "StaticMeshActor_340",
+    "StaticMeshActor_344",
+    "StaticMeshActor_345",
+    "StaticMeshActor_347",
+    "StaticMeshActor_348",
+    "StaticMeshActor_349",
+    "StaticMeshActor_350",
+    "StaticMeshActor_351",
+    "StaticMeshActor_352",
+    "StaticMeshActor_353",
+    "StaticMeshActor_354",
+    "StaticMeshActor_355",
+    "StaticMeshActor_356",
+    "StaticMeshActor_357",
+    "StaticMeshActor_358",
+    "StaticMeshActor_359",
+    "StaticMeshActor_360",
+    "StaticMeshActor_361",
+    "StaticMeshActor_362",
+    "StaticMeshActor_363",
+    "StaticMeshActor_364",
+    "StaticMeshActor_365",
+    "StaticMeshActor_366",
+    "StaticMeshActor_367",
+    "StaticMeshActor_368",
+    "StaticMeshActor_369",
+    "StaticMeshActor_370",
+    "StaticMeshActor_371",
+    "StaticMeshActor_372",
+    "StaticMeshActor_373",
+    "StaticMeshActor_374",
+    "StaticMeshActor_375",
+    "StaticMeshActor_376",
+    "StaticMeshActor_377",
+    "StaticMeshActor_378",
+    "StaticMeshActor_379",
+    "StaticMeshActor_382",
+    "StaticMeshActor_383",
+    "StaticMeshActor_384",
+    "StaticMeshActor_387",
+    "StaticMeshActor_388",
+    "StaticMeshActor_389",
+    "StaticMeshActor_390",
+    "StaticMeshActor_391",
+    "StaticMeshActor_392",
+    "StaticMeshActor_393",
+    "StaticMeshActor_394",
+    "StaticMeshActor_395",
+    "StaticMeshActor_396",
+    "StaticMeshActor_399",
+    "StaticMeshActor_403",
+    "StaticMeshActor_404",
+    "StaticMeshActor_409",
+    "StaticMeshActor_413",
+    "StaticMeshActor_414",
+    "StaticMeshActor_418",
+    "StaticMeshActor_422",
+    "StaticMeshActor_423",
+    "StaticMeshActor_427",
+    "StaticMeshActor_431",
+    "StaticMeshActor_432"
+  ],
+  "move": [
+    {
+      "id": "StaticMeshActor_281",
+      "p": [
+        -960.0,
+        650.0,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_282",
+      "p": [
+        -960.0,
+        -250.0,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_288",
+      "p": [
+        820.0,
+        632.36068,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_293",
+      "p": [
+        1021.6490115254251,
+        -575.4935325359077,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_294",
+      "p": [
+        903.3475303010553,
+        -710.1115078847906,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_299",
+      "p": [
+        -346.2666492897172,
+        -646.2666492897173,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_300",
+      "p": [
+        -502.4889004735219,
+        -402.4889004735219,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_301",
+      "p": [
+        -705.0,
+        -340.0,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_303",
+      "p": [
+        -1006.7138463954793,
+        87.0887228867436,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_304",
+      "p": [
+        -1016.3284327626743,
+        236.12294191754637,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_309",
+      "p": [
+        0.0,
+        -730.0,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_310",
+      "p": [
+        0.0,
+        -300,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_311",
+      "p": [
+        600.0,
+        740.0,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_312",
+      "p": [
+        1040.0,
+        524.72136,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_313",
+      "p": [
+        -1050.0,
+        -340.0,
+        12.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_315",
+      "p": [
+        -900.0,
+        600.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_316",
+      "p": [
+        -900.0,
+        400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_318",
+      "p": [
+        -900.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_319",
+      "p": [
+        -900.0,
+        -200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_322",
+      "p": [
+        -700.0,
+        600.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_323",
+      "p": [
+        -700.0,
+        400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_325",
+      "p": [
+        -700.0,
+        200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_326",
+      "p": [
+        -700.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_327",
+      "p": [
+        -700.0,
+        -200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_330",
+      "p": [
+        -500.0,
+        600.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_331",
+      "p": [
+        -500.0,
+        400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_333",
+      "p": [
+        -500.0,
+        200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_334",
+      "p": [
+        -500.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_335",
+      "p": [
+        -500.0,
+        -200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_338",
+      "p": [
+        -300.0,
+        600.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_339",
+      "p": [
+        -300.0,
+        400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_341",
+      "p": [
+        -300.0,
+        200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_342",
+      "p": [
+        -300.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_343",
+      "p": [
+        -300.0,
+        -200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_346",
+      "p": [
+        -300.0,
+        -400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_380",
+      "p": [
+        -122.5,
+        -400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_381",
+      "p": [
+        -122.5,
+        -600.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_385",
+      "p": [
+        122.5,
+        -400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_386",
+      "p": [
+        122.5,
+        -600.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_397",
+      "p": [
+        300.0,
+        600.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_398",
+      "p": [
+        300.0,
+        400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_400",
+      "p": [
+        300.0,
+        200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_401",
+      "p": [
+        300.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_402",
+      "p": [
+        300.0,
+        -200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_405",
+      "p": [
+        300.0,
+        -400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_406",
+      "p": [
+        300.0,
+        -600.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_407",
+      "p": [
+        500.0,
+        600.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_408",
+      "p": [
+        500.0,
+        400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_410",
+      "p": [
+        500.0,
+        200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_411",
+      "p": [
+        500.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_412",
+      "p": [
+        500.0,
+        -200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_415",
+      "p": [
+        500.0,
+        -400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_416",
+      "p": [
+        500.0,
+        -600.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_417",
+      "p": [
+        700.0,
+        400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_419",
+      "p": [
+        700.0,
+        200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_420",
+      "p": [
+        700.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_421",
+      "p": [
+        700.0,
+        -200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_424",
+      "p": [
+        700.0,
+        -400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_425",
+      "p": [
+        700.0,
+        -600.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_426",
+      "p": [
+        900.0,
+        400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_428",
+      "p": [
+        900.0,
+        200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_429",
+      "p": [
+        900.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_430",
+      "p": [
+        900.0,
+        -200.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_433",
+      "p": [
+        900.0,
+        -400.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_434",
+      "p": [
+        882.103695234571,
+        -521.9996188337143,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_435",
+      "p": [
+        860.1040764008567,
+        -560.1040764008567,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_436",
+      "p": [
+        821.9996188337145,
+        -582.1036952345709,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_437",
+      "p": [
+        -221.99961883371418,
+        -582.1036952345709,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_438",
+      "p": [
+        -260.1040764008567,
+        -560.1040764008567,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_439",
+      "p": [
+        -282.10369523457086,
+        -521.9996188337144,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_440",
+      "p": [
+        -526.2365721457816,
+        -224.7111395076156,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_441",
+      "p": [
+        -398.4745673618339,
+        -298.4745673618339,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_442",
+      "p": [
+        -324.7111395076156,
+        -426.23657214578157,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_443",
+      "p": [
+        -894.6041159214351,
+        292.5,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_444",
+      "p": [
+        -856.4213560000001,
+        150.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_445",
+      "p": [
+        -894.6041159214351,
+        7.500000000000028,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_446",
+      "p": [
+        662.0,
+        574.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_447",
+      "p": [
+        842.0,
+        484.0,
+        0.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_553",
+      "p": [
+        -820.0,
+        140.0,
+        -1.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_554",
+      "p": [
+        -850.0,
+        -20.0,
+        -1.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_555",
+      "p": [
+        -850.0,
+        320.0,
+        -1.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_556",
+      "p": [
+        0.0,
+        535.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "StaticMeshActor_557",
+      "p": [
+        0.0,
+        535.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "StaticMeshActor_558",
+      "p": [
+        0.0,
+        535.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "StaticMeshActor_559",
+      "p": [
+        0.0,
+        535.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "NiagaraActor_0",
+      "p": [
+        0.0,
+        535.0,
+        -43.470000000000006
+      ]
+    },
+    {
+      "id": "StaticMeshActor_560",
+      "p": [
+        0.0,
+        200.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "StaticMeshActor_561",
+      "p": [
+        0.0,
+        200.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "StaticMeshActor_562",
+      "p": [
+        0.0,
+        200.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "StaticMeshActor_563",
+      "p": [
+        0.0,
+        200.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "NiagaraActor_1",
+      "p": [
+        0.0,
+        200.0,
+        -43.470000000000006
+      ]
+    },
+    {
+      "id": "StaticMeshActor_564",
+      "p": [
+        0.0,
+        -135.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "StaticMeshActor_565",
+      "p": [
+        0.0,
+        -135.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "StaticMeshActor_566",
+      "p": [
+        0.0,
+        -135.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "StaticMeshActor_567",
+      "p": [
+        0.0,
+        -135.0,
+        -8.000000000000089
+      ]
+    },
+    {
+      "id": "NiagaraActor_2",
+      "p": [
+        0.0,
+        -135.0,
+        -43.470000000000006
+      ]
+    },
+    {
+      "id": "StaticMeshActor_568",
+      "p": [
+        0,
+        535.0,
+        -15.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_569",
+      "p": [
+        0,
+        200.0,
+        -15.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_570",
+      "p": [
+        0,
+        -135.0,
+        -15.0
+      ]
+    },
+    {
+      "id": "PlayerStart_1",
+      "p": [
+        -500,
+        100,
+        130.0
+      ]
+    },
+    {
+      "id": "StaticMeshActor_571",
+      "p": [
+        -830.0,
+        520.0,
+        16.526317
+      ]
+    },
+    {
+      "id": "StaticMeshActor_572",
+      "p": [
+        -690.0,
+        545.0,
+        17.028817
+      ]
+    },
+    {
+      "id": "StaticMeshActor_573",
+      "p": [
+        -780.0,
+        385.0,
+        17.968389
+      ]
+    },
+    {
+      "id": "StaticMeshActor_574",
+      "p": [
+        720.0,
+        -530.0,
+        17.083827
+      ]
+    },
+    {
+      "id": "StaticMeshActor_575",
+      "p": [
+        850.0,
+        -380.0,
+        16.341245
+      ]
+    },
+    {
+      "id": "StaticMeshActor_576",
+      "p": [
+        -750.0,
+        -130.0,
+        18.148315
+      ]
+    },
+    {
+      "id": "StaticMeshActor_577",
+      "p": [
+        840.0,
+        170.0,
+        17.996055
+      ]
+    },
+    {
+      "id": "StaticMeshActor_578",
+      "p": [
+        850.0,
+        305.0,
+        16.797681
+      ]
+    },
+    {
+      "id": "RectLight_0",
+      "p": [
+        -700,
+        0,
+        650.0
+      ]
+    },
+    {
+      "id": "RectLight_1",
+      "p": [
+        650,
+        -250,
+        650.0
+      ]
+    }
+  ],
+  "walls": [
+    {
+      "label": "South Wall_00",
+      "p": [
+        -610.0,
+        740.0,
+        12
+      ],
+      "length": 400,
+      "yaw": 0.0
+    },
+    {
+      "label": "South Wall_01",
+      "p": [
+        -210.0,
+        740.0,
+        12
+      ],
+      "length": 400,
+      "yaw": 0.0
+    },
+    {
+      "label": "South Wall_02",
+      "p": [
+        190.0,
+        740.0,
+        12
+      ],
+      "length": 400,
+      "yaw": 0.0
+    },
+    {
+      "label": "South Wall_03",
+      "p": [
+        495.0,
+        740.0,
+        12
+      ],
+      "length": 210.0,
+      "yaw": 0.0
+    },
+    {
+      "label": "North Wall_00",
+      "p": [
+        0.0,
+        -740.0,
+        12
+      ],
+      "length": 400,
+      "yaw": 0.0
+    },
+    {
+      "label": "North Wall_01",
+      "p": [
+        400.0,
+        -740.0,
+        12
+      ],
+      "length": 400,
+      "yaw": 0.0
+    },
+    {
+      "label": "North Wall_02",
+      "p": [
+        700.0,
+        -740.0,
+        12
+      ],
+      "length": 200.0,
+      "yaw": 0.0
+    },
+    {
+      "label": "East Wall_00",
+      "p": [
+        1040.0,
+        324.72136,
+        12
+      ],
+      "length": 400,
+      "yaw": -90.0
+    },
+    {
+      "label": "East Wall_01",
+      "p": [
+        1040.0,
+        -75.27864,
+        12
+      ],
+      "length": 400,
+      "yaw": -90.0
+    },
+    {
+      "label": "East Wall_02",
+      "p": [
+        1040.0,
+        -387.63932,
+        12
+      ],
+      "length": 224.72136,
+      "yaw": -90.0
+    },
+    {
+      "label": "West Upper Wall_00",
+      "p": [
+        -1050.0,
+        -45.710678,
+        12
+      ],
+      "length": 108.578644,
+      "yaw": 90.0
+    },
+    {
+      "label": "West Lower Wall_00",
+      "p": [
+        -1050.0,
+        395.71067800000003,
+        12
+      ],
+      "length": 208.578644,
+      "yaw": 90.0
+    },
+    {
+      "label": "Divider North_00",
+      "p": [
+        0.0,
+        -500.0,
+        12
+      ],
+      "length": 400.0,
+      "yaw": 90.0
+    }
+  ],
+  "floors": [
+    {
+      "id": "StaticMeshActor_315",
+      "x": -900.0,
+      "y": 600.0,
+      "original_mesh": "Left_Bottom",
+      "original_yaw": 180.0,
+      "label": "Floor Left_Bottom",
+      "mesh": "Left_Bottom",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_316",
+      "x": -900.0,
+      "y": 400.0,
+      "original_mesh": "Left_Middle",
+      "original_yaw": 180.0,
+      "label": "Floor Left_Middle",
+      "mesh": "Left_Top",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_318",
+      "x": -900.0,
+      "y": 0.0,
+      "original_mesh": "Left_Middle",
+      "original_yaw": 180.0,
+      "label": "Floor Left_Middle",
+      "mesh": "Left_Bottom",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_319",
+      "x": -900.0,
+      "y": -200.0,
+      "original_mesh": "Left_Middle",
+      "original_yaw": 180.0,
+      "label": "Floor Left_Middle",
+      "mesh": "Left_Top",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_322",
+      "x": -700.0,
+      "y": 600.0,
+      "original_mesh": "Middle_Bottom",
+      "original_yaw": 180.0,
+      "label": "Floor Middle_Bottom",
+      "mesh": "Middle_Bottom",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_323",
+      "x": -700.0,
+      "y": 400.0,
+      "original_mesh": "Center",
+      "original_yaw": -90.00000000000001,
+      "label": "Floor Center",
+      "mesh": "Center",
+      "yaw": -90.00000000000001
+    },
+    {
+      "id": "StaticMeshActor_325",
+      "x": -700.0,
+      "y": 200.0,
+      "original_mesh": "Center",
+      "original_yaw": 90.00000000000003,
+      "label": "Floor Center",
+      "mesh": "Left_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_326",
+      "x": -700.0,
+      "y": 0.0,
+      "original_mesh": "Center",
+      "original_yaw": 180.0,
+      "label": "Floor Center",
+      "mesh": "Middle_Top",
+      "yaw": 90,
+      "variation": true
+    },
+    {
+      "id": "StaticMeshActor_327",
+      "x": -700.0,
+      "y": -200.0,
+      "original_mesh": "Center",
+      "original_yaw": -90.00000000000001,
+      "label": "Floor Center",
+      "mesh": "Middle_Top",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_330",
+      "x": -500.0,
+      "y": 600.0,
+      "original_mesh": "Middle_Bottom",
+      "original_yaw": 180.0,
+      "label": "Floor Middle_Bottom",
+      "mesh": "Middle_Bottom",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_331",
+      "x": -500.0,
+      "y": 400.0,
+      "original_mesh": "Center",
+      "original_yaw": 90.00000000000003,
+      "label": "Floor Center",
+      "mesh": "Center",
+      "yaw": 90.00000000000003
+    },
+    {
+      "id": "StaticMeshActor_333",
+      "x": -500.0,
+      "y": 200.0,
+      "original_mesh": "Center",
+      "original_yaw": -90.00000000000001,
+      "label": "Floor Center",
+      "mesh": "Center",
+      "yaw": -90.00000000000001
+    },
+    {
+      "id": "StaticMeshActor_334",
+      "x": -500.0,
+      "y": 0.0,
+      "original_mesh": "Center",
+      "original_yaw": 90.00000000000003,
+      "label": "Floor Center",
+      "mesh": "Center",
+      "yaw": 90.00000000000003
+    },
+    {
+      "id": "StaticMeshActor_335",
+      "x": -500.0,
+      "y": -200.0,
+      "original_mesh": "Left_Middle",
+      "original_yaw": 0.0,
+      "label": "Floor Interior Variation 02 - Left_Middle",
+      "mesh": "Middle_Top",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_338",
+      "x": -300.0,
+      "y": 600.0,
+      "original_mesh": "Middle_Bottom",
+      "original_yaw": 180.0,
+      "label": "Floor Middle_Bottom",
+      "mesh": "Right_Bottom",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_339",
+      "x": -300.0,
+      "y": 400.0,
+      "original_mesh": "Right_Middle",
+      "original_yaw": 180.0,
+      "label": "Floor Interior Variation 03 - Right_Middle",
+      "mesh": "Right_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_341",
+      "x": -300.0,
+      "y": 200.0,
+      "original_mesh": "Center",
+      "original_yaw": 180.0,
+      "label": "Floor Center",
+      "mesh": "Right_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_342",
+      "x": -300.0,
+      "y": 0.0,
+      "original_mesh": "Middle_Top",
+      "original_yaw": 89.99999999999999,
+      "label": "Floor Interior Variation 04 - Middle_Top",
+      "mesh": "Right_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_343",
+      "x": -300.0,
+      "y": -200.0,
+      "original_mesh": "Center",
+      "original_yaw": 180.0,
+      "label": "Floor Center",
+      "mesh": "Right_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_346",
+      "x": -300.0,
+      "y": -400.0,
+      "original_mesh": "Left_Middle",
+      "original_yaw": 180.0,
+      "label": "Floor Left_Middle",
+      "mesh": "Left_Top",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_380",
+      "x": -122.5,
+      "y": -400.0,
+      "original_mesh": "Right_Middle",
+      "original_yaw": 180.0,
+      "label": "Floor Right_Middle",
+      "mesh": "Right_Bottom",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_381",
+      "x": -122.5,
+      "y": -600.0,
+      "original_mesh": "Right_Top",
+      "original_yaw": 180.0,
+      "label": "Floor Right_Top",
+      "mesh": "Left_Top",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_385",
+      "x": 122.5,
+      "y": -400.0,
+      "original_mesh": "Left_Middle",
+      "original_yaw": 180.0,
+      "label": "Floor Left_Middle",
+      "mesh": "Left_Bottom",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_386",
+      "x": 122.5,
+      "y": -600.0,
+      "original_mesh": "Left_Top",
+      "original_yaw": 180.0,
+      "label": "Floor Left_Top",
+      "mesh": "Left_Top",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_397",
+      "x": 300.0,
+      "y": 600.0,
+      "original_mesh": "Middle_Bottom",
+      "original_yaw": 180.0,
+      "label": "Floor Middle_Bottom",
+      "mesh": "Left_Bottom",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_398",
+      "x": 300.0,
+      "y": 400.0,
+      "original_mesh": "Center",
+      "original_yaw": -90.00000000000001,
+      "label": "Floor Center",
+      "mesh": "Left_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_400",
+      "x": 300.0,
+      "y": 200.0,
+      "original_mesh": "Center",
+      "original_yaw": 90.00000000000003,
+      "label": "Floor Center",
+      "mesh": "Left_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_401",
+      "x": 300.0,
+      "y": 0.0,
+      "original_mesh": "Center",
+      "original_yaw": -90.00000000000001,
+      "label": "Floor Center",
+      "mesh": "Left_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_402",
+      "x": 300.0,
+      "y": -200.0,
+      "original_mesh": "Center",
+      "original_yaw": 90.00000000000003,
+      "label": "Floor Center",
+      "mesh": "Left_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_405",
+      "x": 300.0,
+      "y": -400.0,
+      "original_mesh": "Right_Middle",
+      "original_yaw": -90.00000000000001,
+      "label": "Floor Interior Variation 11 - Right_Middle",
+      "mesh": "Center",
+      "yaw": -90.00000000000001
+    },
+    {
+      "id": "StaticMeshActor_406",
+      "x": 300.0,
+      "y": -600.0,
+      "original_mesh": "Middle_Top",
+      "original_yaw": 180.0,
+      "label": "Floor Middle_Top",
+      "mesh": "Middle_Top",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_407",
+      "x": 500.0,
+      "y": 600.0,
+      "original_mesh": "Middle_Bottom",
+      "original_yaw": 180.0,
+      "label": "Floor Middle_Bottom",
+      "mesh": "Right_Bottom",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_408",
+      "x": 500.0,
+      "y": 400.0,
+      "original_mesh": "Center",
+      "original_yaw": 180.0,
+      "label": "Floor Center",
+      "mesh": "Center",
+      "yaw": 180.0
+    },
+    {
+      "id": "StaticMeshActor_410",
+      "x": 500.0,
+      "y": 200.0,
+      "original_mesh": "Center",
+      "original_yaw": 90.00000000000003,
+      "label": "Floor Center",
+      "mesh": "Center",
+      "yaw": 90.00000000000003
+    },
+    {
+      "id": "StaticMeshActor_411",
+      "x": 500.0,
+      "y": 0.0,
+      "original_mesh": "Right_Top",
+      "original_yaw": 89.99999999999999,
+      "label": "Floor Interior Variation 12 - Right_Top",
+      "mesh": "Center",
+      "yaw": 89.99999999999999
+    },
+    {
+      "id": "StaticMeshActor_412",
+      "x": 500.0,
+      "y": -200.0,
+      "original_mesh": "Center",
+      "original_yaw": 90.00000000000003,
+      "label": "Floor Center",
+      "mesh": "Right_Middle",
+      "yaw": 0,
+      "variation": true
+    },
+    {
+      "id": "StaticMeshActor_415",
+      "x": 500.0,
+      "y": -400.0,
+      "original_mesh": "Center",
+      "original_yaw": -90.00000000000001,
+      "label": "Floor Center",
+      "mesh": "Center",
+      "yaw": -90.00000000000001
+    },
+    {
+      "id": "StaticMeshActor_416",
+      "x": 500.0,
+      "y": -600.0,
+      "original_mesh": "Middle_Top",
+      "original_yaw": 180.0,
+      "label": "Floor Middle_Top",
+      "mesh": "Middle_Top",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_417",
+      "x": 700.0,
+      "y": 400.0,
+      "original_mesh": "Middle_Top",
+      "original_yaw": -90.00000000000001,
+      "label": "Floor Interior Variation 14 - Middle_Top",
+      "mesh": "Middle_Bottom",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_419",
+      "x": 700.0,
+      "y": 200.0,
+      "original_mesh": "Center",
+      "original_yaw": -90.00000000000001,
+      "label": "Floor Center",
+      "mesh": "Center",
+      "yaw": -90.00000000000001
+    },
+    {
+      "id": "StaticMeshActor_420",
+      "x": 700.0,
+      "y": 0.0,
+      "original_mesh": "Center",
+      "original_yaw": 0.0,
+      "label": "Floor Center",
+      "mesh": "Center",
+      "yaw": 0.0
+    },
+    {
+      "id": "StaticMeshActor_421",
+      "x": 700.0,
+      "y": -200.0,
+      "original_mesh": "Center",
+      "original_yaw": 180.0,
+      "label": "Floor Center",
+      "mesh": "Center",
+      "yaw": 180.0
+    },
+    {
+      "id": "StaticMeshActor_424",
+      "x": 700.0,
+      "y": -400.0,
+      "original_mesh": "Center",
+      "original_yaw": 0.0,
+      "label": "Floor Center",
+      "mesh": "Left_Middle",
+      "yaw": 270,
+      "variation": true
+    },
+    {
+      "id": "StaticMeshActor_425",
+      "x": 700.0,
+      "y": -600.0,
+      "original_mesh": "Middle_Top",
+      "original_yaw": 180.0,
+      "label": "Floor Middle_Top",
+      "mesh": "Right_Top",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_426",
+      "x": 900.0,
+      "y": 400.0,
+      "original_mesh": "Right_Bottom",
+      "original_yaw": 180.0,
+      "label": "Floor Right_Bottom",
+      "mesh": "Right_Bottom",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_428",
+      "x": 900.0,
+      "y": 200.0,
+      "original_mesh": "Right_Middle",
+      "original_yaw": 180.0,
+      "label": "Floor Right_Middle",
+      "mesh": "Right_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_429",
+      "x": 900.0,
+      "y": 0.0,
+      "original_mesh": "Right_Middle",
+      "original_yaw": 180.0,
+      "label": "Floor Right_Middle",
+      "mesh": "Right_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_430",
+      "x": 900.0,
+      "y": -200.0,
+      "original_mesh": "Right_Middle",
+      "original_yaw": 180.0,
+      "label": "Floor Right_Middle",
+      "mesh": "Right_Middle",
+      "yaw": 180
+    },
+    {
+      "id": "StaticMeshActor_433",
+      "x": 900.0,
+      "y": -400.0,
+      "original_mesh": "Right_Middle",
+      "original_yaw": 180.0,
+      "label": "Floor Right_Middle",
+      "mesh": "Right_Top",
+      "yaw": 180
+    }
+  ],
+  "keep": [
+    "DirectionalLight_0",
+    "SkyAtmosphere_0",
+    "SkyLight_0",
+    "PostProcessVolume_0",
+    "DirectionalLight_1",
+    "StaticMeshActor_279",
+    "ExponentialHeightFog_0"
+  ],
+  "outline_world": [
+    [
+      -1000,
+      700
+    ],
+    [
+      600,
+      700
+    ],
+    [
+      1000,
+      500
+    ],
+    [
+      1000,
+      -500
+    ],
+    [
+      998.288972274762,
+      -526.1052384440103
+    ],
+    [
+      993.1851652578137,
+      -551.7638090205041
+    ],
+    [
+      984.7759065022574,
+      -576.536686473018
+    ],
+    [
+      973.2050807568878,
+      -600.0
+    ],
+    [
+      958.670668058247,
+      -621.7522858017442
+    ],
+    [
+      941.4213562373095,
+      -641.4213562373095
+    ],
+    [
+      921.7522858017442,
+      -658.670668058247
+    ],
+    [
+      900.0,
+      -673.2050807568877
+    ],
+    [
+      876.5366864730179,
+      -684.7759065022574
+    ],
+    [
+      851.7638090205041,
+      -693.1851652578137
+    ],
+    [
+      826.1052384440104,
+      -698.288972274762
+    ],
+    [
+      800.0,
+      -700.0
+    ],
+    [
+      -200,
+      -700
+    ],
+    [
+      -226.1052384440103,
+      -698.288972274762
+    ],
+    [
+      -251.76380902050414,
+      -693.1851652578137
+    ],
+    [
+      -276.536686473018,
+      -684.7759065022574
+    ],
+    [
+      -300.0,
+      -673.2050807568878
+    ],
+    [
+      -321.75228580174416,
+      -658.670668058247
+    ],
+    [
+      -341.4213562373095,
+      -641.4213562373095
+    ],
+    [
+      -358.670668058247,
+      -621.7522858017442
+    ],
+    [
+      -373.2050807568878,
+      -600.0
+    ],
+    [
+      -384.7759065022574,
+      -576.536686473018
+    ],
+    [
+      -393.18516525781365,
+      -551.7638090205043
+    ],
+    [
+      -398.28897227476205,
+      -526.1052384440103
+    ],
+    [
+      -400.0,
+      -500.0
+    ],
+    [
+      -401.71102772523795,
+      -473.8947615559897
+    ],
+    [
+      -406.81483474218635,
+      -448.23619097949586
+    ],
+    [
+      -415.2240934977426,
+      -423.463313526982
+    ],
+    [
+      -426.7949192431122,
+      -400.0
+    ],
+    [
+      -441.329331941753,
+      -378.24771419825584
+    ],
+    [
+      -458.5786437626905,
+      -358.5786437626905
+    ],
+    [
+      -478.24771419825584,
+      -341.329331941753
+    ],
+    [
+      -500.0,
+      -326.7949192431123
+    ],
+    [
+      -523.463313526982,
+      -315.2240934977426
+    ],
+    [
+      -548.2361909794959,
+      -306.81483474218635
+    ],
+    [
+      -573.8947615559897,
+      -301.71102772523795
+    ],
+    [
+      -600.0,
+      -300.0
+    ],
+    [
+      -1000,
+      -300
+    ],
+    [
+      -1000,
+      8.578643999999997
+    ],
+    [
+      -982.7506879417531,
+      28.247714198255863
+    ],
+    [
+      -968.2162752431122,
+      50.0
+    ],
+    [
+      -956.6454494977427,
+      73.46331352698206
+    ],
+    [
+      -948.2361907421864,
+      98.23619097949586
+    ],
+    [
+      -943.132383725238,
+      123.89476155598967
+    ],
+    [
+      -941.4213560000001,
+      150.0
+    ],
+    [
+      -943.132383725238,
+      176.1052384440103
+    ],
+    [
+      -948.2361907421864,
+      201.76380902050414
+    ],
+    [
+      -956.6454494977427,
+      226.53668647301794
+    ],
+    [
+      -968.2162752431122,
+      250.0
+    ],
+    [
+      -982.7506879417531,
+      271.75228580174416
+    ],
+    [
+      -999.9999997626905,
+      291.4213562373095
+    ]
+  ],
+  "area_before_m2": 529.9999999865048,
+  "area_after_m2": 249.99999998887796,
+  "area_ratio": 0.4716981131985728
+}

@@ -1,0 +1,38 @@
+{
+  "backup": "C:\\Users\\zhanx\\Desktop\\Beta Arcade\\_backup\\RoomCompact_Before_20261118_102529",
+  "area_before_m2": 529.9999999865048,
+  "area_after_m2": 249.99999998887796,
+  "area_ratio": 0.4716981131985728,
+  "actor_count": 131,
+  "removed_actor_count": 88,
+  "new_straight_wall_count": 13,
+  "saved": true,
+  "validation": {
+    "floor_samples": 190,
+    "missing_floor_samples": [],
+    "wall_samples": 102,
+    "missing_wall_samples": [],
+    "grounded_barrels": 8,
+    "structure_usage": {
+      "Wall_Corner": 2,
+      "Wall_Straight_2G": 9,
+      "Arc45_Course1_Stone1": 4,
+      "Wall_Curved_R2m_91": 2,
+      "Wall_Straight_1G": 6,
+      "Pillar_A": 5,
+      "Left_Bottom": 4,
+      "Left_Top": 5,
+      "Middle_Bottom": 5,
+      "Center": 18,
+      "Left_Middle": 6,
+      "Middle_Top": 17,
+      "Right_Bottom": 4,
+      "Right_Middle": 8,
+      "Right_Top": 2
+    },
+    "trap_niagara_count": 3
+  },
+  "play_test": "Player spawned and settled at new interior start",
+  "floor_height_and_wall_height_preserved": true,
+  "trap_and_barrel_scales_preserved": true
+}

@@ -1,0 +1,25 @@
+{
+  "floor_samples": 190,
+  "missing_floor_samples": [],
+  "wall_samples": 102,
+  "missing_wall_samples": [],
+  "grounded_barrels": 8,
+  "structure_usage": {
+    "Wall_Corner": 2,
+    "Wall_Straight_2G": 9,
+    "Arc45_Course1_Stone1": 4,
+    "Wall_Curved_R2m_91": 2,
+    "Wall_Straight_1G": 6,
+    "Pillar_A": 5,
+    "Left_Bottom": 4,
+    "Left_Top": 5,
+    "Middle_Bottom": 5,
+    "Center": 18,
+    "Left_Middle": 6,
+    "Middle_Top": 17,
+    "Right_Bottom": 4,
+    "Right_Middle": 8,
+    "Right_Top": 2
+  },
+  "trap_niagara_count": 3
+}
