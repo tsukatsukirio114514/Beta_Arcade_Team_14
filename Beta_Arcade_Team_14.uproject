@@ -5,6 +5,13 @@
 	"Description": "",
 	"Plugins": [
 		{
+			"Name": "BlueprintPorter",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
 			"TargetAllowList": [
