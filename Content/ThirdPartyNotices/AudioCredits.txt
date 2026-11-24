@@ -41,3 +41,16 @@ Sword stab 3 by ihitokage
 https://freesound.org/people/ihitokage/sounds/395372/
 CC0 — https://creativecommons.org/publicdomain/zero/1.0/
 The public preview was trimmed, faded, and adapted into four subtly pitch-varied greatsword contact sounds.
+
+button_depth_boop.wav by BMacZero
+https://freesound.org/people/BMacZero/sounds/641890/
+CC0 - https://creativecommons.org/publicdomain/zero/1.0/
+The public HQ preview was adapted into four short UI sounds with trimming, fades and pitch variations.
+
+Now We Ride, Battle of the Creek and Dark Hollows by Alexander Nakarada (CreatorChords)
+https://creatorchords.com/music/now-we-ride/
+https://creatorchords.com/music/dark-hollows/
+https://creatorchords.com/music/battle-of-the-creek/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+Game playback uses looping, volume changes and crossfades.
