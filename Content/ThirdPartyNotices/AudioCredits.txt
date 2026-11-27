@@ -54,3 +54,21 @@ https://creatorchords.com/music/battle-of-the-creek/
 Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
 https://creativecommons.org/licenses/by/4.0/
 Game playback uses looping, volume changes and crossfades.
+
+Ranged enemy fireball sound effects
+
+Charge: Fire_Crackle_2.wav by KieranKeegan
+https://freesound.org/people/KieranKeegan/sounds/422741/
+CC0 1.0 - https://creativecommons.org/publicdomain/zero/1.0/
+The public HQ preview was converted to mono at 48 kHz, level-adjusted and crossfaded for looping.
+
+Launch: Magic Fire Spell Impact & Punch by EminYILDIRIM
+https://freesound.org/people/EminYILDIRIM/sounds/541478/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+The public HQ preview was converted to mono at 48 kHz, trimmed, faded and level-adjusted.
+
+Impact: Fireball Explosion.wav by Blankened
+https://freesound.org/people/Blankened/sounds/431174/
+CC0 1.0 - https://creativecommons.org/publicdomain/zero/1.0/
+The public HQ preview was converted to mono at 48 kHz, trimmed, faded and level-adjusted.
